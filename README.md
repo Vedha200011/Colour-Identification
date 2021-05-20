@@ -33,7 +33,7 @@ python ColourIdentification.py -i Colourimage.jpg
 ## Output
 
   * It clearly identifies the color of the selected area in the image.
-![image](Colour.jpg)
+![image](colour.jpg)
 
 
 
